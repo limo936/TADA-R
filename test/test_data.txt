@@ -1,0 +1,2 @@
+gene.id	mut.lof	mut.dmis	dn.lof	ar.lof	trans.lof	ntrans.lof	dn.dmis	ar.dmis	trans.dmis	ntrans.dmis
+AKAP12	2.47E-06	1.35E-07	2	0	1	0	0	0	0	0
